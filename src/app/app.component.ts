@@ -12,4 +12,5 @@ export class AppComponent {
     age: '40'
   }
   myArr = [1,2,3]
+  title = 'Tour of Heroes'
 }

@@ -6,11 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  myObj = {
-    location: 'LA',
-    name: 'Josh',
-    age: '40'
-  }
-  myArr = [1,2,3]
+  
   title = 'Tour of Heroes'
 }
